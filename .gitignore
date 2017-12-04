@@ -1,0 +1,8 @@
+# Logs
+logs
+*.Logs
+
+# Dependency directories
+node_modules/
+
+semantic/
