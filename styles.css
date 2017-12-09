@@ -1,3 +1,20 @@
 body {
   margin: 5%;
 }
+
+.column {
+  float: left;
+  width: 30%;
+  border: 1px solid black;
+}
+
+.element {
+  margin-bottom: 5%;
+  display: flex;
+  align-items: center;
+  align-content: center;
+}
+
+.description {
+  margin-left: 10%;
+}
